@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rushikesh</h1>
-<h3 align="center">A passionate Automation from Singapore</h3>
+<h3 align="center">A passionate about Automation, located @ Singapore</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adhiarushikesh" alt="adhiarushikesh" /> </p>
 
