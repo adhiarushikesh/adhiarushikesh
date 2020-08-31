@@ -7,7 +7,6 @@ src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" wi
 src="" alt="PowerShell" width="40" height="40"/> <img src="https://img.icons8.com/ios/50/000000/powershell.png"  <img
 alt="kubernetes" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/></p><p><img align="left" 
  
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhiarushikesh&layout=compact&hide=html" alt="adhiarushikesh" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adhiarushikesh&show_icons=true" alt="adhiarushikesh" /></p>
 
 
